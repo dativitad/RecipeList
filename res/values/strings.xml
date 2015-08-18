@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RecipeList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_internet">No internet connection. Please check network access and restart application.</string>
+    <string name="logo">image logo</string>
+    <string name="hat">image hat</string>
+    <string name="bear">image bear</string>
+    <string name="recipe_image">recipe image</string>
+    <string name="search">Search recipe</string>
+    
+    <string-array name="sort_recipes">
+        <item >Top rated</item>
+        <item >Tranding</item>
+    </string-array>
+    
+     <string-array name="change_recipe_view">
+        <item >List</item>
+        <item >Grid</item>
+    </string-array>
+    
+     <string name="social_rank">Social rank: %s</string>
+     <string name="publisher">Publisher: %s</string>
+     <string name="tranding">Tranding</string>
+     <string name="grid">Grid</string>
+     
+     <string name="publisher_url">Publisher Url</string>
+     <string name="source_url">Source Url</string>
+     <string name="f2f_url">F2F Url</string>
+     <string name="recipe_title">Recipe Title</string>
+     <string name="ingradients">Ingradients</string>
+
+</resources>
